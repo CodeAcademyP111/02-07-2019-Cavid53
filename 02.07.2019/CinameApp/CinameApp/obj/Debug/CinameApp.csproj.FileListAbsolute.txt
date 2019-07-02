@@ -1,0 +1,7 @@
+C:\Users\Aishe\Desktop\p111\C#\02.07.2019\CinameApp\CinameApp\bin\Debug\CinameApp.exe.config
+C:\Users\Aishe\Desktop\p111\C#\02.07.2019\CinameApp\CinameApp\bin\Debug\CinameApp.exe
+C:\Users\Aishe\Desktop\p111\C#\02.07.2019\CinameApp\CinameApp\bin\Debug\CinameApp.pdb
+C:\Users\Aishe\Desktop\p111\C#\02.07.2019\CinameApp\CinameApp\obj\Debug\CinameApp.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\02.07.2019\CinameApp\CinameApp\obj\Debug\CinameApp.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\02.07.2019\CinameApp\CinameApp\obj\Debug\CinameApp.exe
+C:\Users\Aishe\Desktop\p111\C#\02.07.2019\CinameApp\CinameApp\obj\Debug\CinameApp.pdb
